@@ -1,0 +1,4 @@
+COS201|Programming 1|3
+ENT211|Entrepreneurship|2
+SEN201|Intro to Software Engineering|3
+MTH205|Linear Algebra 1|3

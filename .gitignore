@@ -1,0 +1,16 @@
+# Word temporary / lock files
+~$*
+*.tmp
+
+# Compiled Java
+*.class
+*.jar
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+out/
+bin/
